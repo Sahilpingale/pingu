@@ -77,9 +77,9 @@ p{
         font-size: 0.5rem;
         line-height: 1.5;
     }
-    .diceImage{
+    /* .diceImage{
         width: 20%;
-    }
+    } */
     .dice{
         display: inline-block;
       width: 30%;
